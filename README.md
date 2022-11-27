@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bandar-dakhel
 - 👀 I’m interested in Consulting - Business Development - Cybersecurity - Strategic Planning- Digital Strategy - Continuous Improvement
-- 🌱 I’m currently learning Data science 
+- 🌱 I’m currently learning data science 
 - 📫 bandar.dakhel@gmail.com
 
 <!---
